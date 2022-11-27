@@ -1,0 +1,706 @@
+[
+    {
+        "practice": true,
+        "img": "adult_practice.png",
+        "gender": "M",
+        "correct": 1,
+        "options": {
+            "de": [
+                "eifersüchtig",
+                "panisch",
+                "arrogant",
+                "gehässig"
+            ],
+            "en": [
+                "jealous",
+                "panicked",
+                "arrogant",
+                "hateful"
+            ]
+        }
+    },
+    {
+        "img": "adult_01.png",
+        "gender": "M",
+        "correct": 0,
+        "options": {
+            "de": [
+                "verspielt",
+                "tröstend",
+                "irritiert",
+                "gelangweilt"
+            ],
+            "en": [
+                "playful",
+                "comforting",
+                "irritated",
+                "bored"
+            ]
+        }
+    },
+    {
+        "img": "adult_02.png",
+        "gender": "M",
+        "correct": 1,
+        "options": {
+            "de": [
+                "erschrocken",
+                "bestürzt",
+                "arrogant",
+                "verärgert"
+            ],
+            "en": [
+                "terrified",
+                "upset",
+                "arrogant",
+                "annoyed"
+            ]
+        }
+    },
+    {
+        "img": "adult_03.png",
+        "gender": "F",
+        "correct": 2,
+        "options": {
+            "de": [
+                "scherzend",
+                "zerstreut",
+                "verlangend",
+                "überzeugt"
+            ],
+            "en": [
+                "joking",
+                "flustered",
+                "desire",
+                "convinced"
+            ]
+        }
+    },
+    {
+        "img": "adult_04.png",
+        "gender": "M",
+        "correct": 1,
+        "options": {
+            "de": [
+                "scherzend",
+                "fordernd",
+                "amüsiert",
+                "entspannt"
+            ],
+            "en": [
+                "joking",
+                "insisting",
+                "amused",
+                "relaxed"
+            ]
+        }
+    },
+    {
+        "img": "adult_05.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "Irritiert",
+                "sarkastisch",
+                "besorgt",
+                "freundlich"
+            ],
+            "en": [
+                "irritated",
+                "sarcastic",
+                "worried",
+                "friendly"
+            ]
+        }
+    },
+    {
+        "img": "adult_06.png",
+        "gender": "F",
+        "correct": 1,
+        "options": {
+            "de": [
+                "schockiert",
+                "fantasierend",
+                "ungeduldig",
+                "wachsam"
+            ],
+            "en": [
+                "aghast",
+                "fantasizing",
+                "impatient",
+                "alarmed"
+            ]
+        }
+    },
+    {
+        "img": "adult_07.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "entschuldigend",
+                "freundlich",
+                "angespannt",
+                "enttäuscht"
+            ],
+            "en": [
+                "apologetic",
+                "friendly",
+                "uneasy",
+                "dispirited"
+            ]
+        }
+    },
+    {
+        "img": "adult_08.png",
+        "gender": "M",
+        "correct": 0,
+        "options": {
+            "de": [
+                "niedergeschlagen",
+                "befreit",
+                "schüchtern",
+                "aufgeregt"
+            ],
+            "en": [
+                "despondent",
+                "relieved",
+                "shy",
+                "excited"
+            ]
+        }
+    },
+    {
+        "img": "adult_09.png",
+        "gender": "F",
+        "correct": 3,
+        "options": {
+            "de": [
+                "verärgert",
+                "feindlich",
+                "schockiert",
+                "voreingenommen"
+            ],
+            "en": [
+                "annoyed",
+                "hostile",
+                "horrified",
+                "preoccupied"
+            ]
+        }
+    },
+    {
+        "img": "adult_10.png",
+        "gender": "M",
+        "correct": 0,
+        "options": {
+            "de": [
+                "vorsichtig",
+                "beharrlich",
+                "gelangweilt",
+                "schockiert"
+            ],
+            "en": [
+                "cautious",
+                "insisting",
+                "bored",
+                "aghast"
+            ]
+        }
+    },
+    {
+        "img": "adult_11.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "erschrocken",
+                "amüsiert",
+                "bereuend",
+                "flirtend"
+            ],
+            "en": [
+                "terrified",
+                "amused",
+                "regretful",
+                "flirtatious"
+            ]
+        }
+    },
+    {
+        "img": "adult_12.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "gleichgültig",
+                "verlegen",
+                "skeptisch",
+                "niedergeschlagen"
+            ],
+            "en": [
+                "indifferent",
+                "embarrassed",
+                "sceptical",
+                "dispirited"
+            ]
+        }
+    },
+    {
+        "img": "adult_13.png",
+        "gender": "M",
+        "correct": 1,
+        "options": {
+            "de": [
+                "entschlossen",
+                "antizipierend",
+                "drohend",
+                "schüchtern"
+            ],
+            "en": [
+                "decisive",
+                "anticipating",
+                "threatening",
+                "shy"
+            ]
+        }
+    },
+    {
+        "img": "adult_14.png",
+        "gender": "M",
+        "correct": 3,
+        "options": {
+            "de": [
+                "irritiert",
+                "enttäuscht",
+                "depressiv",
+                "anklagend"
+            ],
+            "en": [
+                "irritated",
+                "disappointed",
+                "depressed",
+                "accusing"
+            ]
+        }
+    },
+    {
+        "img": "adult_15.png",
+        "gender": "F",
+        "correct": 0,
+        "options": {
+            "de": [
+                "kontemplativ",
+                "zerstreut",
+                "ermutigend",
+                "amüsiert"
+            ],
+            "en": [
+                "contemplative",
+                "flustered",
+                "encouraging",
+                "amused"
+            ]
+        }
+    },
+    {
+        "img": "adult_16.png",
+        "gender": "M",
+        "correct": 1,
+        "options": {
+            "de": [
+                "irritiert",
+                "gedankenreich",
+                "ermutigend",
+                "sympathisch"
+            ],
+            "en": [
+                "irritated",
+                "thoughtful",
+                "encouraging",
+                "sympathetic"
+            ]
+        }
+    },
+    {
+        "img": "adult_17.png",
+        "gender": "F",
+        "correct": 0,
+        "options": {
+            "de": [
+                "zweifelnd",
+                "liebevoll",
+                "verspielt",
+                "schockiert"
+            ],
+            "en": [
+                "doubtful",
+                "affectionate",
+                "playful",
+                "aghast"
+            ]
+        }
+    },
+    {
+        "img": "adult_18.png",
+        "gender": "F",
+        "correct": 0,
+        "options": {
+            "de": [
+                "entschlossen",
+                "amüsiert",
+                "schockiert",
+                "gelangweilt"
+            ],
+            "en": [
+                "decisive",
+                "amused",
+                "aghast",
+                "bored"
+            ]
+        }
+    },
+    {
+        "img": "adult_19.png",
+        "gender": "F",
+        "correct": 3,
+        "options": {
+            "de": [
+                "arrogant",
+                "dankbar",
+                "sarkastisch",
+                "unsicher"
+            ],
+            "en": [
+                "arrogant",
+                "grateful",
+                "sarcastic",
+                "tentative"
+            ]
+        }
+    },
+    {
+        "img": "adult_20.png",
+        "gender": "M",
+        "correct": 1,
+        "options": {
+            "de": [
+                "dominant",
+                "freundlich",
+                "schuldig",
+                "erschrocken"
+            ],
+            "en": [
+                "dominant",
+                "friendly",
+                "guilty",
+                "horrified"
+            ]
+        }
+    },
+    {
+        "img": "adult_21.png",
+        "gender": "F",
+        "correct": 1,
+        "options": {
+            "de": [
+                "verlegen",
+                "fantasierend",
+                "verwirrt",
+                "panisch"
+            ],
+            "en": [
+                "embarrassed",
+                "fantasizing",
+                "confused",
+                "panicked"
+            ]
+        }
+    },
+    {
+        "img": "adult_22.png",
+        "gender": "F",
+        "correct": 0,
+        "options": {
+            "de": [
+                "voreingenommen",
+                "dankbar",
+                "beharrlich",
+                "bittend"
+            ],
+            "en": [
+                "preoccupied",
+                "grateful",
+                "insisting",
+                "imploring"
+            ]
+        }
+    },
+    {
+        "img": "adult_23.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "zufrieden",
+                "entschuldigend",
+                "herausfordernd",
+                "neugierig"
+            ],
+            "en": [
+                "contented",
+                "apologetic",
+                "defiant",
+                "curious"
+            ]
+        }
+    },
+    {
+        "img": "adult_24.png",
+        "gender": "M",
+        "correct": 0,
+        "options": {
+            "de": [
+                "nachdenklich",
+                "irritiert",
+                "aufgeregt",
+                "feindlich"
+            ],
+            "en": [
+                "pensive",
+                "irritated",
+                "excited",
+                "hostile"
+            ]
+        }
+    },
+    {
+        "img": "adult_25.png",
+        "gender": "F",
+        "correct": 3,
+        "options": {
+            "de": [
+                "panisch",
+                "ungläubig",
+                "niedergeschlagen",
+                "interessiert"
+            ],
+            "en": [
+                "panicked",
+                "incredulous",
+                "despondent",
+                "interested"
+            ]
+        }
+    },
+    {
+        "img": "adult_26.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "besorgt",
+                "schüchtern",
+                "feindlich",
+                "ängstlich"
+            ],
+            "en": [
+                "alarmed",
+                "shy",
+                "hostile",
+                "anxious"
+            ]
+        }
+    },
+    {
+        "img": "adult_27.png",
+        "gender": "F",
+        "correct": 1,
+        "options": {
+            "de": [
+                "scherzend",
+                "vorsichtig",
+                "arrogant",
+                "ermutigend"
+            ],
+            "en": [
+                "joking",
+                "cautious",
+                "arrogant",
+                "reassuring"
+            ]
+        }
+    },
+    {
+        "img": "adult_28.png",
+        "gender": "F",
+        "correct": 0,
+        "options": {
+            "de": [
+                "interessiert",
+                "scherzend",
+                "liebevoll",
+                "zufrieden"
+            ],
+            "en": [
+                "interested",
+                "joking",
+                "affectionate",
+                "contented"
+            ]
+        }
+    },
+    {
+        "img": "adult_29.png",
+        "gender": "F",
+        "correct": 3,
+        "options": {
+            "de": [
+                "ungeduldig",
+                "erschrocken",
+                "irritiert",
+                "nachdenklich"
+            ],
+            "en": [
+                "impatient",
+                "aghast",
+                "irritated",
+                "reflective"
+            ]
+        }
+    },
+    {
+        "img": "adult_30.png",
+        "gender": "F",
+        "correct": 1,
+        "options": {
+            "de": [
+                "dankbar",
+                "flirtend",
+                "feindlich",
+                "entäuscht"
+            ],
+            "en": [
+                "grateful",
+                "flirtatious",
+                "hostile",
+                "disappointed"
+            ]
+        }
+    },
+    {
+        "img": "adult_31.png",
+        "gender": "F",
+        "correct": 1,
+        "options": {
+            "de": [
+                "beschämt",
+                "überzeugt",
+                "scherzhaft",
+                "entmutigt"
+            ],
+            "en": [
+                "ashamed",
+                "confident",
+                "joking",
+                "dispirited"
+            ]
+        }
+    },
+    {
+        "img": "adult_32.png",
+        "gender": "M",
+        "correct": 0,
+        "options": {
+            "de": [
+                "ernst",
+                "beschämt",
+                "verblüfft",
+                "besorgt"
+            ],
+            "en": [
+                "serious",
+                "ashamed",
+                "bewildered",
+                "alarmed"
+            ]
+        }
+    },
+    {
+        "img": "adult_33.png",
+        "gender": "M",
+        "correct": 3,
+        "options": {
+            "de": [
+                "verlegen",
+                "schuldig",
+                "fantasierend",
+                "besorgt"
+            ],
+            "en": [
+                "embarrassed",
+                "guilty",
+                "fantasizing",
+                "concerned"
+            ]
+        }
+    },
+    {
+        "img": "adult_34.png",
+        "gender": "F",
+        "correct": 2,
+        "options": {
+            "de": [
+                "bestürzt",
+                "verwirrt",
+                "misstrauisch",
+                "erschrocken"
+            ],
+            "en": [
+                "aghast",
+                "baffled",
+                "distrustful",
+                "terrified"
+            ]
+        }
+    },
+    {
+        "img": "adult_35.png",
+        "gender": "F",
+        "correct": 1,
+        "options": {
+            "de": [
+                "ratlos",
+                "nervös",
+                "beharrlich",
+                "kontemplativ"
+            ],
+            "en": [
+                "puzzled",
+                "nervous",
+                "insisting",
+                "contemplative"
+            ]
+        }
+    },
+    {
+        "img": "adult_36.png",
+        "gender": "M",
+        "correct": 2,
+        "options": {
+            "de": [
+                "beschämt",
+                "nervös",
+                "misstrauisch",
+                "zögernd"
+            ],
+            "en": [
+                "ashamed",
+                "nervous",
+                "suspicious",
+                "indecisive"
+            ]
+        }
+    }
+]

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reading Mind in the Eyes Test</title>
+  <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+</head>
+
+<body>
+
+  <section>
+    <h1>Reading Mind in the Eyes Test</h1>
+    <form>
+      <button type="submit" name="language" value="en">English</button>
+      <button type="submit" name="language" value="de">Deutsch</button>
+    </form>
+  </section>
+
+  <section>
+    <div class="en">
+      <h1>Instructions</h1>
+      <p>
+        The Reading the Mind in the Eyes Test consists of 36 photographs, each giving you four choices.
+      </p>
+      <p>
+        For each set of eyes, choose which word best describes what the person in the picture is thinking or feeling.
+        You may feel that more than one word is applicable, but please choose just one word, the word which you consider
+        to be most suitable. Before making your choice, make sure that you have read all four. Aim to do the task
+        quickly and accurately—your accuracy and time taken are both scored.
+      </p>
+      <p>
+        Once you have read the instructions, complete the practice item. Do not worry about what the answer is; the
+        point of the practice item is for you to understand what to do.
+      </p>
+      <form>
+        <button type="submit">Continue</button>
+      </form>
+    </div>
+    <div class="de">
+      <h1>Instruktionen für den Reading Mind in the Eyes Test für Erwachsene</h1>
+      <p>
+        Bitte, sehen Sie sich die 36 Bilder von Augenpaaren nacheinander an. Bitte, entscheiden Sie, welcher der vier
+        aufgeführten Begriffe am besten beschreibt, was die abgebildete Person denkt, fühlt oder ausdrückt. Klicken sie
+        in den entsprechenden Knopf mit dem Begriff.
+      </p>
+      <p>
+        Wenn Sie den Eindruck haben, dass mehr als ein Begriff zutrifft, können sie dennoch immer nur einen Begriff
+        auswählen.
+      </p>
+      <p>
+        Bevor Sie eine Entscheidung treffen, stellen Sie bitte sicher, dass Sie alle vier Begriffe gelesen haben.
+      </p>
+      Sie sollten versuchen, die Aufgaben so schnell wie möglich zu bearbeiten; eine Zeitbegrenzung besteht aber nicht.
+      </p>
+      <p>
+        Sollten Sie einige Begriffe nicht kennen oder Ihnen missverständlich erscheinen, finden Sie etwas weiter unten
+        eine kleine Liste sinnverwandter Wörter.</p>
+      </p>
+      <h2>Sinnverwandte Wörter möglicherweise unklarer Begriffe</h2>
+      <ul>
+        <li><strong>antizipierend</strong> ahnen, vorwegnehmen</li>
+        <li><strong>dominant</strong> autoritär, bestimmend</li>
+        <li><strong>gedankenreich</strong> nachdenklich, überlegend</li>
+        <li><strong>kontemplativ</strong> versunken, vertieft, innerlich</li>
+        <li><strong>sarkastisch</strong> spöttisch, zynisch, höhnisch</li>
+        <li><strong>verlangend</strong> verführerisch, sehnsüchtig </li>
+      </ul>
+      <form>
+        <button type="submit">Weiter</button>
+      </form>
+    </div>
+  </section>
+
+  <section id="test">
+    <form>
+      <button type="submit" name="answer" value="0">X</button>
+      <button type="submit" name="answer" value="1">X</button>
+      <button type="submit" name="answer" value="2">X</button>
+      <button type="submit" name="answer" value="3">X</button>
+      <image src="adult_practice.png" />
+    </form>
+  </section>
+
+  <section id="result">
+    <h1 class="en">Result</h1>
+    <h1 class="de">Ergebnis</h1>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="1">
+            <span class="de">Dauer</span>
+            <span class="en">Duration</span>
+          </th>
+          <td colspan="6" id="duration"></td>
+        </tr>
+        <tr>
+          <th colspan="1">
+            <span class="de">Richtig</span>
+            <span class="en">Correct</span>
+          </th>
+          <td colspan="6" id="correct"></td>
+        </tr>
+
+        <tr>
+          <td colspan="7">&nbsp;</td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="de">Augen</span>
+            <span class="en">Eyes</span>
+          </th>
+          <th>Option 1</th>
+          <th>Option 2</th>
+          <th>Option 3</th>
+          <th>Option 4</th>
+          <th>
+            <span class="de">Ausgewählt</span>
+            <span class="en">Picked</span>
+          </th>
+          <th>
+            <span class="de">Dauer</span>
+            <span class="en">Duration</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody id="details">
+        <tr style="display:none">
+          <td><img /></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</body>
+<script type="module" src="script.js"></script>
+
+</html>

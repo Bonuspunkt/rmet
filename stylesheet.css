@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+button {
+    display: block;
+    font-size: 100%;
+    min-width: 20%;
+    min-height: 5%;
+    margin: .5rem;
+    padding: .5rem;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+td {
+    padding: .3rem .5rem;
+}
+
+#test {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#test button {
+    position: absolute;
+    height: 13%;
+    width: 48%;
+    font-size: 8vh;
+}
+
+#test button:nth-child(odd) {
+    left: 0;
+}
+
+#test button:nth-child(even) {
+    right: 0;
+}
+
+#test button:nth-child(3),
+#test button:nth-child(4) {
+    bottom: 0
+}
+
+#test img {
+    position: absolute;
+    margin: auto;
+    top: 15%;
+    height: 70%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    object-fit: contain;
+}
+
+#details img {
+    height: 40px
+}
+
+.correct {
+    color: green;
+    font-weight: bold;
+}

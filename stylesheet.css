@@ -11,7 +11,13 @@ button {
     padding: .5rem;
 }
 
-tr:nth-child(even) {
+
+tbody tr:nth-child(even) {
+    background-color: #eee;
+}
+
+th {
+    padding: .3rem .5rem;
     background-color: #eee;
 }
 
@@ -29,6 +35,7 @@ td {
 
 #test button {
     position: absolute;
+    padding: 0;
     height: 13%;
     width: 48%;
     font-size: 8vh;
@@ -50,12 +57,33 @@ td {
 #test img {
     position: absolute;
     margin: auto;
-    top: 15%;
-    height: 70%;
+    top: 20%;
+    height: 60%;
     width: 100%;
     left: 0;
     right: 0;
     object-fit: contain;
+}
+
+@media (max-aspect-ratio: 20/19) {
+    #test button {
+        left: 0;
+        right: 0;
+        width: auto;
+    }
+
+    #test button:nth-child(2) {
+        top: 14%
+    }
+
+    #test button:nth-child(3) {
+        bottom: 14%
+    }
+
+    #test img {
+        top: 30%;
+        height: 40%;
+    }
 }
 
 #details img {

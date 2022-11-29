@@ -37,7 +37,10 @@ const nextTest = (() => {
         imageEl.src = test.img;
         test.options[language].forEach((item, i) => {
             answerEls[i].textContent = item;
+            const action = test.practice && i == test.correct ? 'add' : 'remove';
+            answerEls[i].classList[action]('correct');
         });
+
 
         allResults.push({ ...test, start: Date.now() })
 

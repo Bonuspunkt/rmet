@@ -34,6 +34,7 @@ td {
 }
 
 #test button {
+    margin: .5rem 0;
     position: absolute;
     padding: 0;
     height: 13%;
@@ -42,11 +43,11 @@ td {
 }
 
 #test button:nth-child(odd) {
-    left: 0;
+    left: 1%;
 }
 
 #test button:nth-child(even) {
-    right: 0;
+    right: 1%;
 }
 
 #test button:nth-child(3),
@@ -67,9 +68,8 @@ td {
 
 @media (max-aspect-ratio: 20/19) {
     #test button {
-        left: 0;
-        right: 0;
-        width: auto;
+        left: 1%;
+        width: 98%;
     }
 
     #test button:nth-child(2) {

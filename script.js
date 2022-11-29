@@ -7,7 +7,6 @@ testData.forEach(({ img }) => {
 })
 
 
-const languages = ['de', 'en']
 let index = 0;
 let language = 'en';
 let testIndex = 0;
@@ -99,11 +98,19 @@ const createResult = () => {
 const sectionEls = [...document.querySelectorAll('section')];
 
 const setLanguage = (newLanguage) => {
-    language = newLanguage;
-    languages
-        .filter(lng => lng != language)
-        .forEach(lng => Array.from(document.querySelectorAll(`.${lng}`)).forEach(el => el.style.display = 'none'))
 
+    Array.from(document.querySelectorAll('.en'))
+        .map(el => el.parentElement)
+        .forEach(parent => {
+            const displayLanguage = parent.querySelector(`.${newLanguage}`)
+                ? newLanguage
+                : 'en';
+            Array.from(parent.children).forEach(el => {
+                el.style.display = el.classList.contains(displayLanguage) ? '' : 'none';
+            });
+        });
+
+    language = newLanguage;
 }
 
 const transitions = {

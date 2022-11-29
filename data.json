@@ -16,6 +16,12 @@
                 "panicked",
                 "arrogant",
                 "hateful"
+            ],
+            "nl": [
+                "jaloers",
+                "paniekerig",
+                "arrogant",
+                "haatdragend"
             ]
         }
     },
@@ -35,6 +41,12 @@
                 "comforting",
                 "irritated",
                 "bored"
+            ],
+            "nl": [
+                "speels",
+                "troostend",
+                "geïrriteerd",
+                "verveeld"
             ]
         }
     },
@@ -54,6 +66,12 @@
                 "upset",
                 "arrogant",
                 "annoyed"
+            ],
+            "nl": [
+                "doodsbang",
+                "overstuur",
+                "arrogant",
+                "geërgerd"
             ]
         }
     },
@@ -73,6 +91,12 @@
                 "flustered",
                 "desire",
                 "convinced"
+            ],
+            "nl": [
+                "grappend",
+                "de kluts kwijt",
+                "verlangen",
+                "overtuigd"
             ]
         }
     },
@@ -92,6 +116,12 @@
                 "insisting",
                 "amused",
                 "relaxed"
+            ],
+            "nl": [
+                "grappend",
+                "aandringend ",
+                "geamuseerd",
+                "ontspannen"
             ]
         }
     },
@@ -111,6 +141,12 @@
                 "sarcastic",
                 "worried",
                 "friendly"
+            ],
+            "nl": [
+                "geïrriteerd",
+                "sarcastisch",
+                "bezorgd",
+                "vriendelijk"
             ]
         }
     },
@@ -130,6 +166,12 @@
                 "fantasizing",
                 "impatient",
                 "alarmed"
+            ],
+            "nl": [
+                "ontzet",
+                "fantaserend",
+                "ongeduldig",
+                "gealarmeerd"
             ]
         }
     },
@@ -149,6 +191,12 @@
                 "friendly",
                 "uneasy",
                 "dispirited"
+            ],
+            "nl": [
+                "verontschuldigend",
+                "vriendelijk",
+                "ongemakkelijk",
+                "moedeloos"
             ]
         }
     },
@@ -168,6 +216,12 @@
                 "relieved",
                 "shy",
                 "excited"
+            ],
+            "nl": [
+                "wanhopig",
+                "opgelucht",
+                "verlegen",
+                "opgewonden"
             ]
         }
     },
@@ -187,6 +241,12 @@
                 "hostile",
                 "horrified",
                 "preoccupied"
+            ],
+            "nl": [
+                "geërgerd",
+                "vijandig",
+                "geschokt",
+                "in gedachten verzonken"
             ]
         }
     },
@@ -206,6 +266,12 @@
                 "insisting",
                 "bored",
                 "aghast"
+            ],
+            "nl": [
+                "voorzichtig",
+                "aandringend ",
+                "verveeld",
+                "ontzet"
             ]
         }
     },
@@ -225,6 +291,12 @@
                 "amused",
                 "regretful",
                 "flirtatious"
+            ],
+            "nl": [
+                "doodsbang",
+                "geamuseerd",
+                "spijt",
+                "flirtend"
             ]
         }
     },
@@ -244,6 +316,12 @@
                 "embarrassed",
                 "sceptical",
                 "dispirited"
+            ],
+            "nl": [
+                "onverschillig",
+                "gegeneerd",
+                "sceptisch",
+                "moedeloos"
             ]
         }
     },
@@ -263,6 +341,12 @@
                 "anticipating",
                 "threatening",
                 "shy"
+            ],
+            "nl": [
+                "beslist",
+                "verwachtend",
+                "bedreigend",
+                "verlegen"
             ]
         }
     },
@@ -282,6 +366,12 @@
                 "disappointed",
                 "depressed",
                 "accusing"
+            ],
+            "nl": [
+                "geïrriteerd",
+                "ontgoocheld",
+                "teneer geslagen",
+                "verwijtend"
             ]
         }
     },
@@ -301,6 +391,12 @@
                 "flustered",
                 "encouraging",
                 "amused"
+            ],
+            "nl": [
+                "contemplatief",
+                "de kluts kwijt",
+                "bemoedigend",
+                "geamuseerd"
             ]
         }
     },
@@ -320,6 +416,12 @@
                 "thoughtful",
                 "encouraging",
                 "sympathetic"
+            ],
+            "nl": [
+                "geïrriteerd",
+                "nadenkend",
+                "bemoedigend",
+                "meelevend"
             ]
         }
     },
@@ -339,6 +441,12 @@
                 "affectionate",
                 "playful",
                 "aghast"
+            ],
+            "nl": [
+                "twijfelend",
+                "liefdevol",
+                "speels",
+                "ontzet"
             ]
         }
     },
@@ -358,6 +466,12 @@
                 "amused",
                 "aghast",
                 "bored"
+            ],
+            "nl": [
+                "beslist",
+                "geamuseerd",
+                "ontzet",
+                "verveeld"
             ]
         }
     },
@@ -377,6 +491,12 @@
                 "grateful",
                 "sarcastic",
                 "tentative"
+            ],
+            "nl": [
+                "arrogant",
+                "dankbaar",
+                "sarcastisch",
+                "aarzelend"
             ]
         }
     },
@@ -396,6 +516,12 @@
                 "friendly",
                 "guilty",
                 "horrified"
+            ],
+            "nl": [
+                "dominant",
+                "vriendelijk",
+                "schuldig",
+                "geschokt"
             ]
         }
     },
@@ -415,6 +541,12 @@
                 "fantasizing",
                 "confused",
                 "panicked"
+            ],
+            "nl": [
+                "gegeneerd",
+                "fantaserend",
+                "verward",
+                "paniekerig"
             ]
         }
     },
@@ -434,6 +566,12 @@
                 "grateful",
                 "insisting",
                 "imploring"
+            ],
+            "nl": [
+                "in gedachten verzonken",
+                "dankbaar",
+                "aandringend ",
+                "smekend"
             ]
         }
     },
@@ -453,6 +591,12 @@
                 "apologetic",
                 "defiant",
                 "curious"
+            ],
+            "nl": [
+                "tevreden",
+                "verontschuldigend",
+                "uitdagend",
+                "nieuwsgierig"
             ]
         }
     },
@@ -472,6 +616,12 @@
                 "irritated",
                 "excited",
                 "hostile"
+            ],
+            "nl": [
+                "peinzend",
+                "geïrriteerd",
+                "opgewonden",
+                "vijandig"
             ]
         }
     },
@@ -491,6 +641,12 @@
                 "incredulous",
                 "despondent",
                 "interested"
+            ],
+            "nl": [
+                "paniekerig",
+                "ongelovig",
+                "wanhopig",
+                "geïnteresseerd"
             ]
         }
     },
@@ -510,6 +666,12 @@
                 "shy",
                 "hostile",
                 "anxious"
+            ],
+            "nl": [
+                "gealarmeerd",
+                "verlegen",
+                "vijandig",
+                "angstig"
             ]
         }
     },
@@ -529,6 +691,12 @@
                 "cautious",
                 "arrogant",
                 "reassuring"
+            ],
+            "nl": [
+                "grappend",
+                "voorzichtig",
+                "arrogant",
+                "geruststellend"
             ]
         }
     },
@@ -548,6 +716,12 @@
                 "joking",
                 "affectionate",
                 "contented"
+            ],
+            "nl": [
+                "geïnteresseerd",
+                "grappend",
+                "liefdevol",
+                "tevreden"
             ]
         }
     },
@@ -567,6 +741,12 @@
                 "aghast",
                 "irritated",
                 "reflective"
+            ],
+            "nl": [
+                "ongeduldig",
+                "ontzet",
+                "geïrriteerd",
+                "beschouwend"
             ]
         }
     },
@@ -586,6 +766,12 @@
                 "flirtatious",
                 "hostile",
                 "disappointed"
+            ],
+            "nl": [
+                "dankbaar",
+                "flirtend",
+                "vijandig",
+                "ontgoocheld"
             ]
         }
     },
@@ -605,6 +791,12 @@
                 "confident",
                 "joking",
                 "dispirited"
+            ],
+            "nl": [
+                "beschaamd",
+                "zelfverzekerd",
+                "grappend",
+                "moedeloos"
             ]
         }
     },
@@ -624,6 +816,12 @@
                 "ashamed",
                 "bewildered",
                 "alarmed"
+            ],
+            "nl": [
+                "ernstig",
+                "beschaamd",
+                "verbouwereerd",
+                "gealarmeerd"
             ]
         }
     },
@@ -643,6 +841,12 @@
                 "guilty",
                 "fantasizing",
                 "concerned"
+            ],
+            "nl": [
+                "gegeneerd",
+                "schuldig",
+                "fantaserend",
+                "bezorgd"
             ]
         }
     },
@@ -662,6 +866,12 @@
                 "baffled",
                 "distrustful",
                 "terrified"
+            ],
+            "nl": [
+                "ontzet",
+                "verbijsterd",
+                "wantrouwend",
+                "doodsbang"
             ]
         }
     },
@@ -681,6 +891,12 @@
                 "nervous",
                 "insisting",
                 "contemplative"
+            ],
+            "nl": [
+                "in de war",
+                "zenuwachtig",
+                "aandringend ",
+                "contemplatief"
             ]
         }
     },
@@ -700,6 +916,12 @@
                 "nervous",
                 "suspicious",
                 "indecisive"
+            ],
+            "nl": [
+                "beschaamd",
+                "zenuwachtig",
+                "achterdochtig",
+                "besluiteloos"
             ]
         }
     }
